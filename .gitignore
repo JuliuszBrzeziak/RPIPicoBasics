@@ -30,4 +30,5 @@
 *.exe
 *.out
 *.app
- bulid/
+
+1-PicoFlash/build/
