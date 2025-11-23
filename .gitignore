@@ -32,3 +32,4 @@
 *.app
 
 1-PicoFlash/build/
+.DS_Store
